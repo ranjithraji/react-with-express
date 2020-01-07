@@ -1,0 +1,52 @@
+.con{
+background-color:white;
+height: auto;
+}
+.navbar{
+    box-shadow: 4px 4px 4px white;
+    border: solid 2px yellow;
+    background-color:white;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    z-index: 1;
+}
+.img{
+    width:96%;
+    max-width:96% ;
+    height: 350px;
+    margin-left: 1%;
+    position: relative;
+    cursor: pointer;
+}
+
+.slick-slider{
+    width:95%;
+    height: auto;
+    margin-left: 3%; 
+}
+.slick{
+    position: relative;
+    border: solid 2px yellow;
+    background-color:white;
+    margin-top: 50px;
+    padding: 10px;
+  
+}
+.slick-dots{
+    position: relative;
+    bottom: -7px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.slick-arrow{
+    background-color: black;
+}
+.slick-arrow:hover{
+    background-color: black;
+    border: solid 1px white;
+}
